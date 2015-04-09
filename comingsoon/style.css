@@ -1,0 +1,120 @@
+/* Reset */
+
+body,div,dl,dt,dd,ul,ol,li,h1,h2,h3,h4,h5,h6,pre,code,form,fieldset,legend,input,textarea,p,blockquote,th,td{
+	margin:0;padding:0;}
+
+table{border-collapse:collapse;border-spacing:0;}
+fieldset,img{border:0;}
+
+address,caption,dfn,th,var{
+	font-style:normal;
+	font-weight:normal;
+	}
+li{
+	list-style:none;
+	}
+caption,th{
+	text-align:left;
+	}
+h1,h2,h3,h4,h5,h6{
+	font-size:100%;
+	font-weight:normal;
+	}
+
+html { 
+  background: url(../comingsoon/binary.gif) ;
+
+}
+
+body{
+	font-family: "Rum Raisin". sans-serif;
+
+}
+
+
+h1{
+font-family: "sans-serif", arial;
+text-align: center;
+font-size: 40px;
+margin-top: 10px;
+margin-bottom: 20px;
+color: #00009c;
+
+}
+
+h2{
+font-family: 'Fredericka the Great', cursive;
+text-align: center;
+font-size: 90px;
+font-weight: 100;
+margin-top: 10px;
+color: #00009c;}
+
+h3 {
+ font-family: 'Rum Raisin', sans-serif;
+ font-size: 30px;
+ font-weight: 100;
+ color: #5f5f5f;
+ text-align: center;
+}
+
+.content{
+width: 940px;
+float: center;
+margin-left: auto;
+margin-right: auto;
+background-color: #fff;
+	border-radius: 20px;
+	border: 1px solid #5f5f5f;
+}
+
+.content p{
+text-align: center;
+font-family: 'Rum Raisin', sans-serif;
+font-size: 20px;
+}
+
+#mc_embed_signup{
+	width: 500px;
+	margin-left: auto;
+	margin-right: auto;
+	background:#fff;
+	border-radius: 10px;
+	border-color: #5f5f5f;
+	color: #00009c;
+	clear:center; 
+	font-family: 'rum Raisin', sans-serif;
+	font-size: 25px;
+
+	 }
+
+#mc_embed_signup .button {
+	font-family: 'rum Raisin', sans-serif;
+	font-size: 30px;
+	color: #fff;
+	background-color: #00009c;
+	border-radius: 10px;
+	padding: 10px;
+	border: none;
+	margin: 15px;
+}
+
+#mc_embed_signup .email {
+	font-family: sans-serif;
+	font-size: 20px;
+	width: 400px;
+	border: 1px solid #5f5f5f;
+	border-radius: 10px;
+	color: #0009c;
+	background-color: #fff;
+	padding: 5px;
+	margin: 15px;
+}
+
+.clear{
+clear: left;
+clear: both;
+margin: 0;
+padding: 0;
+}
+
